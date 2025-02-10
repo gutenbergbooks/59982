@@ -1,174 +1,95 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=us-ascii" />
-    <meta http-equiv="Content-Style-Type" content="text/css" />
-    <title>
-      The Project Gutenberg eBook of The Human Element, by Leo Kelley.
-    </title>
-    <link rel="coverpage" href="images/cover.jpg" />
-
-    <style type="text/css">
-
-body {
-    margin-left: 10%;
-    margin-right: 10%;
-}
-
-    h1,h2 {
-    text-align: center; /* all headings centered */
-    clear: both;
-}
-
-p {
-    margin-top: .51em;
-    text-align: justify;
-    margin-bottom: .49em;
-}
-
-hr {
-    width: 33%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-    margin-left: 33.5%;
-    margin-right: 33.5%;
-    clear: both;
-}
-
-hr.chap {width: 65%; margin-left: 17.5%; margin-right: 17.5%;}
-hr.tb {width: 45%; margin-left: 27.5%; margin-right: 27.5%;}
-
-.center   {text-align: center;}
-
-.right   {text-align: right;}
-
-.caption  {font-weight: bold;}
-
-/* Images */
-.figcenter   {
-    margin: auto;
-    text-align: center;
-}
-
-div.titlepage {
-  text-align: center;
-  page-break-before: always;
-  page-break-after: always;
-}
-
-div.titlepage p {
-  text-align: center;
-  text-indent: 0em;
-  font-weight: bold;
-  line-height: 1.5;
-  margin-top: 3em;
-}
-
-.ph1 { text-align: center; text-indent: 0em; font-weight: bold; }
-.ph1 { font-size: large; margin: .83em auto; }
-
-.ph2 { text-align: center; text-indent: 0em; }
-.ph2 { font-size: large; margin: .83em auto; }
-
-    </style>
-  </head>
-<body>
+*** START OF THE PROJECT GUTENBERG EBOOK 59982 ***
 
 
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 59982 ***</div>
 
 
-<div class="figcenter">
-  <img src="images/cover.jpg" width="359" height="500" alt=""/>
-</div>
 
-<hr class="chap" />
 
-<div class="titlepage">
 
-<h1><i>the human element</i></h1>
 
-<h2>BY LEO KELLEY</h2>
 
-<p class="ph1"><i>It was absolutely amazing what science could do.<br />
-The last century of progress had been wonderful!<br />
-Why even the circus was far better&mdash;or was it?</i></p>
 
-<p>[Transcriber's Note: This etext was produced from<br />
-Worlds of If Science Fiction, June 1957.<br />
-Extensive research did not uncover any evidence that<br />
-the U.S. copyright on this publication was renewed.]</p>
 
-</div>
 
-<hr class="chap" />
+                          _the human element_
 
-<p>"Going to the circus?" the man with the sallow complexion asked.</p>
+                             BY LEO KELLEY
 
-<p>Kevin nodded but didn't look at his questioner. He nervously brushed
+           _It was absolutely amazing what science could do.
+           The last century of progress had been wonderful!
+            Why even the circus was far better--or was it?_
+
+           [Transcriber's Note: This etext was produced from
+               Worlds of If Science Fiction, June 1957.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+"Going to the circus?" the man with the sallow complexion asked.
+
+Kevin nodded but didn't look at his questioner. He nervously brushed
 back the lock of gray hair from his lined forehead and pushed his
 rimless glasses into a more secure position on his nose. His worried
-expression made him look older than his forty-eight years.</p>
+expression made him look older than his forty-eight years.
 
-<p>"Hear it's better than ever," the man continued in a flat toneless
-voice. "<i>The Great Golden Ball</i> is supposed to be really something.
+"Hear it's better than ever," the man continued in a flat toneless
+voice. "_The Great Golden Ball_ is supposed to be really something.
 Or so they say. I go every year. It's really amazing what they can do
-nowadays&mdash;science, I mean. Even the circus is better for it."</p>
+nowadays--science, I mean. Even the circus is better for it."
 
-<p>Is it? thought Kevin as the speeding, robot driven monorail transport
+Is it? thought Kevin as the speeding, robot driven monorail transport
 rocketed past the brilliant pastel buildings shining slimly in the
 sunlight filtering through the plastic dome covering New New York. Oh,
-is it?</p>
+is it?
 
-<p>The man next to Kevin, discouraged by the lack of response to his
+The man next to Kevin, discouraged by the lack of response to his
 attempts at conversation, quieted and both men relaxed in the privacy
-of their own thoughts.</p>
+of their own thoughts.
 
-<p>At any rate, the other man did. Kevin couldn't relax. His son and
+At any rate, the other man did. Kevin couldn't relax. His son and
 daughter-in-law with whom he lived could not be aware of his absence
 yet, Kevin reassured himself. No one knew he was here. And when the men
 came for him, and Sally, perhaps with tears in her eyes, went to fetch
-him and his small suitcase it would be too late.</p>
+him and his small suitcase it would be too late.
 
-<p>And that would be that.</p>
+And that would be that.
 
-<p>The transport slowed noiselessly to a stop and most of the passengers
+The transport slowed noiselessly to a stop and most of the passengers
 rose to leave. The robot driver sat motionless until the last of the
 people, Kevin among them, stepped from the loading platform to the
 ground. The electronic currents whirred, the doors closed and, the
 circuit complete, the transport moved off into the shining caverns of
-the city.</p>
+the city.
 
-<p>The people hurried forward and passed quickly through the entrance to
-the amphitheater over which hung a sign:</p>
+The people hurried forward and passed quickly through the entrance to
+the amphitheater over which hung a sign:
 
-<p class="ph2">MAIN ENTRANCE TO 2088<br />
-VERSION OF CALDWELL'S<br />
-GIANT CIRCUS</p>
+                         MAIN ENTRANCE TO 2088
+                         VERSION OF CALDWELL'S
+                             GIANT CIRCUS
 
-<p>Kevin watched the people file through the entrance and slowly, almost
+Kevin watched the people file through the entrance and slowly, almost
 reluctantly, followed them. He presented the red plastic coin to
 the robot at the entrance, but hardly heard as its electrical voice
-crackled, "Thank you, sir. Enjoy the show."</p>
+crackled, "Thank you, sir. Enjoy the show."
 
-<p>Kevin walked with the crowd along the spotless corridor and stepped
+Kevin walked with the crowd along the spotless corridor and stepped
 aboard the automatic lift, getting out at the floor above. He seated
 himself in one of the comfortable lounging chairs and shuddered
 slightly as it fitted itself to the contours of his body. His fingers
 clutched tightly the undistinguished box he carried and something
 within him resisted the comfort offered by the large chair in which he
-sat.</p>
+sat.
 
-<p>People continued to file in and take places and the amphitheater was
+People continued to file in and take places and the amphitheater was
 quickly filled. Soundlessly. The walls absorbed the sound and invisible
 filters removed the dust from the air. Occasionally people took
 small pills from the containers built into the sides of their chairs
 and popped them into their mouths. Kevin knew the pills tasted like
 popcorn, candy floss, and some even like hot dogs. But they were, of
-course, not the same as the real thing. Neither was the amphitheater.</p>
+course, not the same as the real thing. Neither was the amphitheater.
 
-<p>Once there had been great canvas tents put up in the open air, and wood
+Once there had been great canvas tents put up in the open air, and wood
 shavings covering the ground within, and hard benches for seats. The
 area around the tents had been sprinkled with small stands that sold
 soda in bottles and candy floss colored pink that melted into sweet
@@ -181,42 +102,42 @@ Kevin knew all this for he had read it in the book which he had bought
 from the ancient shopkeeper in the run-down section of New New York,
 how many years ago? Kevin smiled slightly to himself as he recalled
 the puzzled expression on the shop-keeper's face when he purchased the
-book.</p>
+book.
 
-<p>The circus was beginning and Kevin interrupted his reverie to watch.</p>
+The circus was beginning and Kevin interrupted his reverie to watch.
 
-<p>On small elevated squares in the center of the great arena stood
+On small elevated squares in the center of the great arena stood
 figures almost too horrible to look at. Some flailed many arms about
-aimlessly; some simply stood&mdash;vacantly&mdash;and their undersize extra
+aimlessly; some simply stood--vacantly--and their undersize extra
 limbs which should have been wings fluttered sadly. One or two figures
 crawled about on their small squares scratching their scaly skins and
 making whimpering noises. One seemed to be making efforts to rise from
 where it lay in an amorphous heap, but was prevented from doing so by
 a grotesque over-sized head which the creature seemed incapable of
-raising from the slab on which it sprawled.</p>
+raising from the slab on which it sprawled.
 
-<p>Kevin's stomach tightened. Every year, he knew, specimens such as
+Kevin's stomach tightened. Every year, he knew, specimens such as
 these, the products of the effects of radiation on the genes of
 their parents or, perhaps, grandparents during the war that ended
 nearly a hundred years ago, were placed on display in the circus on
 their small squares where rising electrical currents instead of bars
 imprisoned them. Even the freak shows in the twentieth century circus
 were different from this. At least then the freaks were still, well,
-<i>people</i>, and freely chose to exhibit their oddities for profit. In
+_people_, and freely chose to exhibit their oddities for profit. In
 many cases it was the only way they could earn a living. But this was
 different. These senseless mutants were captured like animals after
 having been abandoned by their parents; and were being displayed with
-the same lack of humanity.</p>
+the same lack of humanity.
 
-<p>Kevin watched robots perform mindless feats of strength as the circus
+Kevin watched robots perform mindless feats of strength as the circus
 continued. He saw colored opaque rays support a slab of concrete and
 gasped with the rest of the audience as the heavy slab was suddenly
-disintegrated by a sudden rainbow fusion of all the rays.</p>
+disintegrated by a sudden rainbow fusion of all the rays.
 
-<p>He listened as the recorded commercials whispered their wiles to the
-captive audience.</p>
+He listened as the recorded commercials whispered their wiles to the
+captive audience.
 
-<p>Suddenly a panel slowly opened in the ceiling of the amphitheater and
+Suddenly a panel slowly opened in the ceiling of the amphitheater and
 dramatically, silently, an immense golden sphere descended until it
 hung glistening at the end of its thin cable in the center of the great
 arena. The lights dimmed and a hush fell over the crowd. The sphere
@@ -225,39 +146,39 @@ amphitheater were turned off. Kevin stared as the sphere began to
 rotate on its axis. He heard the first reaction the audience had yet
 shown; the "ohs" and "ahs" that used to accompany fireworks displays in
 the old days. He looked into the sphere and could not believe what he
-saw. <i>He</i> was in the sphere and he&mdash;! Everyone would know, he thought
+saw. _He_ was in the sphere and he--! Everyone would know, he thought
 in horror and fear! He tore his eyes from the sphere and looked,
 expecting anything, at the people near him whose faces were dimly
 visible in the light from the sphere. They all gazed spellbound at the
 hypnotically revolving globe. Kevin listened as a woman whispered to
-the man next to her without taking her eyes from the shining bubble.</p>
+the man next to her without taking her eyes from the shining bubble.
 
-<p>"Can you see it, Jim?"</p>
+"Can you see it, Jim?"
 
-<p>"Yeah," the man answered softly.</p>
+"Yeah," the man answered softly.
 
-<p>"I always dreamed of playing a love scene with Dirk Anders. He's the
-best actor in the Lifies. And there I am! Doing it&mdash;in the Golden
-Ball," the woman sighed.</p>
+"I always dreamed of playing a love scene with Dirk Anders. He's the
+best actor in the Lifies. And there I am! Doing it--in the Golden
+Ball," the woman sighed.
 
-<p>"That's not what I see," the man said in a low voice, not taking his
+"That's not what I see," the man said in a low voice, not taking his
 eyes from the turning globe. Kevin watched the man's mouth working. Saw
 him wipe the spittle from the corners of his mouth. He turned away from
-the naked look in the man's eager eyes.</p>
+the naked look in the man's eager eyes.
 
-<p>A child of nine or ten in front of Kevin clutched excitedly at the
+A child of nine or ten in front of Kevin clutched excitedly at the
 sleeve of the woman next to him. "I'm in there, Mom! See me! And I've
 got a dog! See, he's all black with one white paw! Just like I told you
-I wanted him to be, Mom!"</p>
+I wanted him to be, Mom!"
 
-<p>The woman answered her son absently as she stared intently into the
+The woman answered her son absently as she stared intently into the
 ball and Kevin wondered what private and personal dream she saw
-herself living. <i>The Great Golden Ball</i>, as it turned hypnotically
+herself living. _The Great Golden Ball_, as it turned hypnotically
 on its cable, was providing everyone with a vision of his or her own
 particular wish-fulfillment. The spellbound audience was happily
-wallowing in a dream world.</p>
+wallowing in a dream world.
 
-<p>Kevin left his seat abruptly and boarded the lift in the corridor. On
+Kevin left his seat abruptly and boarded the lift in the corridor. On
 the lower floor he searched until he found the entrance to the arena.
 It was temporarily empty, but soon the robots would be using it as they
 brought equipment into the arena for the next display. Kevin opened his
@@ -267,22 +188,14 @@ quickly, covered his face with white powder. As he applied grease paint
 to his face in bright, bold strokes, a saucy grin smiled back at him
 from the mirror's surface. He slipped the white skull piece over his
 head and fastened the red wig to it. One last look in the mirror and he
-was ready.</p>
+was ready.
 
-<p>Kevin skipped lightly, in spite of his forty-eight years, out into the
-glaring light of the arena.</p>
+Kevin skipped lightly, in spite of his forty-eight years, out into the
+glaring light of the arena.
 
-<p>Silence greeted him.</p>
+Silence greeted him.
 
-<hr class="chap" />
-
-<div class="figcenter">
-  <img src="images/illus.jpg" width="650" height="470" alt=""/>
-</div>
-
-<hr class="chap" />
-
-<p>He walked about. He skipped. And suddenly fell. He rose, rubbing the
+He walked about. He skipped. And suddenly fell. He rose, rubbing the
 place of his contact with the floor, and scanned the floor beneath his
 feet. Suddenly, he threw up his hands in mock surprise and, bending
 from the waist, picked up something from the floor. Triumphantly he
@@ -290,153 +203,149 @@ held it up. It took the audience a minute or two to "see" the imaginary
 straw, or pin, or whatever it was, that was clutched between Kevin's
 thumb and index finger. His painted smile beamed on the people before
 him and seemed to grow larger as a faint titter arose from a little
-girl in the first tier of seats.</p>
+girl in the first tier of seats.
 
-<p>Kevin waved to her.</p>
+Kevin waved to her.
 
-<p>She hid her face in her hands. And then waved shyly back.</p>
+She hid her face in her hands. And then waved shyly back.
 
-<p>Kevin skipped about the arena watching the people whispering among
+Kevin skipped about the arena watching the people whispering among
 themselves. The softest ripple of laughter ran through the audience and
 Kevin's heart soared. He repeated his fall and waved to a small boy who
-waved wildly back.</p>
+waved wildly back.
 
-<p>Kevin's wig bobbed gaily as he hopped and strutted about the arena
-waving to the children.</p>
+Kevin's wig bobbed gaily as he hopped and strutted about the arena
+waving to the children.
 
-<p>"Wave to me! Wave to me!" cried a shrill voice from the stands.</p>
+"Wave to me! Wave to me!" cried a shrill voice from the stands.
 
-<p>Kevin did not see the robots approaching on the run and yet was not
+Kevin did not see the robots approaching on the run and yet was not
 surprised when they seized him and carried him from the arena, his red
 wig still bobbing gaily. It could not have ended otherwise, Kevin knew.
-But no matter. The children had laughed. So had many of the adults.</p>
+But no matter. The children had laughed. So had many of the adults.
 
-<hr class="tb" />
+       *       *       *       *       *
 
-<p>The robots deposited him in the corridor beside the entrance to the
+The robots deposited him in the corridor beside the entrance to the
 arena and Kevin found himself facing two well dressed and corpulent
-gentlemen.</p>
+gentlemen.
 
-<p>"What's going on here?" shouted the first man. This was Mr. Caldwell
+"What's going on here?" shouted the first man. This was Mr. Caldwell
 himself, the owner of the circus. His picture had been on the Communico
 Screen in connection with the advertising for the circus Kevin
-remembered.</p>
+remembered.
 
-<p>"Are you crazy?" the second man sputtered.</p>
+"Are you crazy?" the second man sputtered.
 
-<p>Kevin slowly removed the wig and the white skull piece and stood with
+Kevin slowly removed the wig and the white skull piece and stood with
 lowered eyes, his arms at his sides, facing the two angry men. As they
 continued to shout at him for an explanation Kevin, using the skull
-piece, wiped the clown make-up from his face.</p>
+piece, wiped the clown make-up from his face.
 
-<p>Both men, out of breath, paused and Kevin opened his mouth to speak. "I
-want to apolo&mdash;," he began but Caldwell interrupted him.</p>
+Both men, out of breath, paused and Kevin opened his mouth to speak. "I
+want to apolo--," he began but Caldwell interrupted him.
 
-<p>"Hey, Mike," he said to the other man, "Isn't this the guy whose
+"Hey, Mike," he said to the other man, "Isn't this the guy whose
 picture they're sending out on the Communico Screen? You know, the guy
 who ran away from his son's house before they could send him to the
-Psych Center?"</p>
+Psych Center?"
 
-<p>Kevin didn't give the man a chance to answer the question. "That's
+Kevin didn't give the man a chance to answer the question. "That's
 true, sir, and I'm going home now. I'm sorry for the trouble I've
-caused but I had to do it. I&mdash;," he faltered. How could he explain
+caused but I had to do it. I--," he faltered. How could he explain
 about what he had done and why he had done it? Kevin brushed the gray
 lock of hair back from his forehead and reached absently for the
 glasses he had removed earlier while applying his make-up. "It's a very
 long story," he said finally and there was a weariness in his tone that
-was not merely the result of his exertion in the arena moments before.</p>
+was not merely the result of his exertion in the arena moments before.
 
-<p>He stood quietly before the two men. The shouting from the arena did
-not quite penetrate his consciousness.</p>
+He stood quietly before the two men. The shouting from the arena did
+not quite penetrate his consciousness.
 
-<p>Kevin thought of Sally and Edward and how they had reluctantly decided
+Kevin thought of Sally and Edward and how they had reluctantly decided
 to send him to the Psych Rehabilitation Center because he persisted
 in "living in the past" as they put it and refused to be suitably
 interested in or impressed with the "progress" their century had made.
 When Kevin had tried to explain that the progress they spoke of was
 not all, he sincerely believed, of a worthwhile nature they had merely
-shrugged and looked at him oddly.</p>
+shrugged and looked at him oddly.
 
-<p>He was willing to go through with the Psychlab's "Rehabilitation
+He was willing to go through with the Psychlab's "Rehabilitation
 Program" now for he had proved his point. There were some good things
-from the past and a clown was one of them.</p>
+from the past and a clown was one of them.
 
-<p>A circus without noise and fanfare and excitement and laughter was
+A circus without noise and fanfare and excitement and laughter was
 nothing. He hated the sterility of its present scientific gadgetry.
 The best that could be said for it was that it did no obvious harm. But
-with the advent of <i>The Great Golden Ball</i> people were taking one more
+with the advent of _The Great Golden Ball_ people were taking one more
 step away from what could be a pleasant reality and one more step in
 the direction of Dreamland. And Kevin was certain that this Dreamland
-would one day prove to be crawling with nightmares.</p>
+would one day prove to be crawling with nightmares.
 
-<p>"&mdash;something written about this a long time ago," Caldwell was saying
+"--something written about this a long time ago," Caldwell was saying
 to his assistant. "Looks like its got possibilities. Back in the 1900's
 they used to have these guys who made fools of themselves in the
 circus. People loved them. Sorta made them see their own faults and
-frustrations and all."</p>
+frustrations and all."
 
-<p>"But, sir&mdash;" the younger man began.</p>
+"But, sir--" the younger man began.
 
-<p>"I know we're supposed to be a streamlined outfit, but you can hear
+"I know we're supposed to be a streamlined outfit, but you can hear
 that crowd yelling out there as well as I can. That's proof enough for
-me! This thing's good!"</p>
+me! This thing's good!"
 
-<p>Kevin listened in amazement. This was not the way he had expected
+Kevin listened in amazement. This was not the way he had expected
 things to go. They should have sent him home in the custody of one of
 the robots by now. Or called the Psych Rehabilitation Center to have
-someone come and get him.</p>
+someone come and get him.
 
-<p>"What's your name, dad?" Caldwell asked.</p>
+"What's your name, dad?" Caldwell asked.
 
-<p>"Molloy. Kevin Molloy," Kevin answered, feeling shy all at once. "But I
-didn't&mdash;"</p>
+"Molloy. Kevin Molloy," Kevin answered, feeling shy all at once. "But I
+didn't--"
 
-<p>"Listen Molloy. Get out there and do whatever you did before. No, don't
+"Listen Molloy. Get out there and do whatever you did before. No, don't
 ask any questions now. We can settle details later. But from now on
-you're working for Caldwell's Circus!"</p>
+you're working for Caldwell's Circus!"
 
-<p>Kevin pulled the skull piece on his head once again and with shaking
+Kevin pulled the skull piece on his head once again and with shaking
 fingers applied his grease paint. It was a poor job but Kevin hoped it
 would look good enough. Still fastening the red wig, he ran out into
 the arena and was stopped short by the thunderous roar that went up
 from the crowd. Kevin lifted a boy from the stands and sat down on the
 floor of the arena, the boy on his lap. The age old game began. Kevin's
 hands covered his face. The boy pulled away one finger after another
-until Kevin's painted smile beamed out at him. They laughed together.</p>
+until Kevin's painted smile beamed out at him. They laughed together.
 
-<p>Kevin played the clown and listened simultaneously to the voice
+Kevin played the clown and listened simultaneously to the voice
 shouting in his mind. Sally had always said an older man should have a
 hobby or something to keep him occupied. That was why I got such crazy
 ideas, she said, because I didn't have enough to do since I retired.
-Well, now I've got more than a hobby. I've got a job. I'm a <i>clown</i>!
+Well, now I've got more than a hobby. I've got a job. I'm a _clown_!
 Maybe I can get Caldwell to put some sawdust on this floor; it's
-awfully slippery.</p>
+awfully slippery.
 
-<p>Kevin placed the boy back in the stands and skipped about the arena.</p>
+Kevin placed the boy back in the stands and skipped about the arena.
 
-<p>Maybe he'll put up a candy floss stand and sell popcorn instead of all
-those pills, Kevin thought as he smiled at the happy crowd.</p>
+Maybe he'll put up a candy floss stand and sell popcorn instead of all
+those pills, Kevin thought as he smiled at the happy crowd.
 
-<p>Kevin slipped, fell, and the crowd howled its delight when he found the
-imaginary straw.</p>
+Kevin slipped, fell, and the crowd howled its delight when he found the
+imaginary straw.
 
-<p>As he staggered exhausted from the arena, his heart singing, Mr.
+As he staggered exhausted from the arena, his heart singing, Mr.
 Caldwell was still excitedly talking to his assistant, who was
-vigorously nodding his head in agreement.</p>
+vigorously nodding his head in agreement.
 
-<p>"&mdash;&mdash;remember some ancient history myself! We'll get him to teach some
+"----remember some ancient history myself! We'll get him to teach some
 other guys the same kind of stuff. Remind me to ask him about that. I
 figure maybe we've come full circle on this, and he's got just what we
-need around here&mdash;&mdash;the human element."</p>
+need around here----the human element."
 
 
 
 
 
+End of the Project Gutenberg EBook of The Human Element, by Leo Kelley
 
-
-
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 59982 ***</div>
-
-</body>
-</html>
+*** END OF THE PROJECT GUTENBERG EBOOK 59982 ***
